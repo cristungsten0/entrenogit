@@ -1,0 +1,5 @@
+lista de colores:
+azul
+blanco
+rosa
+amarillo
