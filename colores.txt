@@ -3,3 +3,5 @@ azul
 blanco
 rosa
 amarillo
+naranja
+morado
